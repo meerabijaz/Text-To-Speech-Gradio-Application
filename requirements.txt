@@ -1,0 +1,6 @@
+transformers
+gradio
+soundfile
+sentencepiece
+huggingface_hub
+torch
